@@ -1,2 +1,5 @@
 [build]
-  functions = "/functions"
+functions = "/functions"
+base = "zahabe/"
+publish = "zahabe/build/"
+command = "yarn build"
